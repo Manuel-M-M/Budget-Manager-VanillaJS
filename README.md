@@ -2,7 +2,7 @@
 ***
 
 
-Semanal budget manager with JavaScrpt object oriented programming, HTML5, CSS3 and Bootstrap.
+Semanal budget manager with JavaScript Object Oriented Programming, HTML5, CSS3 and Bootstrap.
 
 
 
